@@ -1,0 +1,26 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "First Demo NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriiDenisov/mlcourse_dubai.git"
+  },
+  "keywords": [
+    "npmtreehugger"
+  ],
+  "author": "Abdulrahman Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitriiDenisov/mlcourse_dubai/issues"
+  },
+  "homepage": "https://github.com/dmitriiDenisov/mlcourse_dubai#readme",
+  "dependencies": {
+    "mongoose": "^5.9.19",
+    "underscore": "^1.10.2"
+  }
+}
