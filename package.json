@@ -21,6 +21,6 @@
   "homepage": "https://github.com/dmitriiDenisov/mlcourse_dubai#readme",
   "dependencies": {
     "mongoose": "^5.9.19",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
